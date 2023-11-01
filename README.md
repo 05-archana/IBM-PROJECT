@@ -45,4 +45,3 @@ Creating a chatbot using Watson Assistant integrated with Facebook Messenger inv
    - Once you're satisfied with your chatbot's performance, deploy it to Facebook Messenger by enabling the integration you set up earlier.
    - Users can then interact with your chatbot on Facebook Messenger.
 
-Remember that creating an effective chatbot is an ongoing process. Regularly update, train, and monitor your chatbot to provide a better user experience. Additionally, stay informed about changes in Facebook Messenger's platform and Watson Assistant to ensure your integration remains up to date and functional
